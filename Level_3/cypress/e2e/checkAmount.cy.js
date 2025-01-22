@@ -8,7 +8,7 @@ describe('Finance Main Page Testing', () => {
   beforeEach(() => {
 
     cy.visit('https://finance.i.ua/')
-    financePage.closePopUp()
+    //financePage.closePopUp()
 
   });
 
